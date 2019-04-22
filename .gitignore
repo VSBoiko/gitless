@@ -1,1 +1,4 @@
+#default directory for ignore
+node_modules/
+build/
 .idea/
